@@ -20,3 +20,13 @@
 
 //! Operator String
 //* +
+
+//! Operator typeof
+//* typeof(operand)
+// exampale
+//* typeof(10)
+
+//! Operator Kondisional
+//* (kondisi) ? benar : salah 
+// exampale
+//* (x % 2==0) ? "genap" : "ganjil"
