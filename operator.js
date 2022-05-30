@@ -1,5 +1,6 @@
+console.log("Hello, ini javascript dasar")
 //! Aritmatik
-//* +,-,*,/ & % (sisa bagi)
+//* +,-,*,/ & % ( % = sisa bagi)
 
 //! Operator Perbandingan 
 // Operator     |     keterangan
