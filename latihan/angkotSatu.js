@@ -1,5 +1,6 @@
-let angkotAwal = 1 
-while (angkotAwal <= 10) {
-    console.log(`Angkot No. ${angkotAwal} beroperasi dengan baik.`)
-    angkotAwal++;
+let jmlhAngkot = 10
+let nomorAngkot = 1 
+while (nomorAngkot <= jmlhAngkot) {
+    console.log(`Angkot No. ${nomorAngkot} beroperasi dengan baik.`)
+    nomorAngkot++;
 }
